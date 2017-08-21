@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title {
+    font-size: 52px;
+    font-family: "Roboto Mono", monospace;
+
+}
+
+.site-header {
+    min-height:100px;
+    padding-top: 1em;
+}
+
+.page-link {
+    font-size: 125%;
+}
+

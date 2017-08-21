@@ -1,0 +1,107 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` and set theme here
+@import
+        "theme-{{ site.theme_color | default: "black" }}.scss"
+;
+
+// @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i|Roboto+Mono:300,300i,400,400i,500,500i,700,700i|Roboto+Slab:300,400,700|Roboto:300,300i,400,400i,500,500i,700,700i|Source+Serif+Pro:400,600,700');
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,300i,400,400i,500,500i,700,700i');
+
+
+$monofont: "Roboto Mono", monospace;
+// $textfont: "Roboto Slab", sans-serif;
+$titlefont: $monofont;
+$accentcolor: #E74727;
+$backgroundcolor: #181818;
+
+
+//body {
+    //font-family: $textfont;
+    //font-weight:400;
+//}
+
+
+.header-title {
+    color: white !important;
+    font-size: 6em !important;
+}
+
+h1, h2, h3, h4 {
+    font-family: $titlefont;
+    font-weight: 300;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 42px;
+}
+
+
+/* Type utilities */
+.h0 { font-size: 64px; 
+      line-height: 1.0125; 
+  margin-top: 0.85em; 
+  word-wrap: break-word;
+  font-family: monospace;
+  color: rgb(64,64,64);
+  font-weight: 400;
+  }
+
+@media (min-width: 52em) { .h0 { font-size: 72px; } }
+
+.border-top-thin {
+    border-top: none;
+}
+
+.h4 {
+    font-family:monospace;
+    font-weight: 400;
+    color: white;
+}
+
+.mb-3 {
+    padding: 0px 12px 0px 12px;
+    background: $accentcolor;
+}
+
+.py4 {
+    padding-bottom: 0px;
+}
+
+.py-4 {
+    padding: 0px;
+}
+
+//.header-link {
+    //color: white !important;
+//}
+
+a.link-primary {
+    font-weight: 400;
+    color: rgb(64,64,64);
+}
+
+p a {
+    color: $accentcolor;
+}
+
+header a {
+    color: $accentcolor !important;
+    font-weight: 600;
+    font-family: $titlefont;
+    font-size: 125%;
+}
+
+body:first-child {
+    background: $backgroundcolor;
+}
+
+.header-border {
+    border-color: $backgroundcolor;
+}
+

@@ -20,16 +20,31 @@ description: > # this means to ignore newlines until "baseurl:"
   Ihr freundlicher Dr. von der Schnittstelle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# minima
 twitter_username: hbunke
 github_username:  hbunke
 
+# swiss
+social_link: twitter
+social_username: hbunke
+theme_color: black
+github_repo: hbunke.github.io
+github_username: hbunke
 
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: jekyll-swiss
 gems:
-  - jekyll-feed
+  - jekyll-fee
 exclude:
   - Gemfile
   - Gemfile.lock
+  - default.nix
+  - gemset.nix
+  - vendor
+  - bin
+  - minima
+  - swiss
