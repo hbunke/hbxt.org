@@ -156,7 +156,7 @@ Und ich freue mich wirklich sehr, dass ich wieder an meine Zeit in der
 Pädagogik anschließen kann. Ich werde mich wieder intensiv mit Digitalen Medien
 in der Bildung und neuen Lernformen befassen, an einem Ort, der es immer noch
 bitter nötig hat. Und als neues Feld öffnet sich auch gerade das Thema _Open
-Educational Ressources_.
+Educational Resources_.
 
 Das ganze ist im Übigen auch (erstmal) mit erheblichen finanziellen Einbußen
 verbunden, weil ich ja noch mal eben schnell das Referendariat machen muss. Das
