@@ -158,7 +158,7 @@ in der Bildung und neuen Lernformen befassen, an einem Ort, der es immer noch
 bitter nötig hat. Und als neues Feld öffnet sich auch gerade das Thema _Open
 Educational Resources_.
 
-Das ganze ist im Übigen auch (erstmal) mit erheblichen finanziellen Einbußen
+Das ganze ist im Übrigen auch (erstmal) mit erheblichen finanziellen Einbußen
 verbunden, weil ich ja noch mal eben schnell das Referendariat machen muss. Das
 geht, weil meine wunderbare Frau auch arbeitet und überhaupt die allergrößte
 Stütze für diesen Schritt ist.
