@@ -2,7 +2,7 @@
 layout: post
 title:  "Kinder statt Ökonomen"
 comments: true
-date:   2017-12-12 23:08:45 +0200
+date:   2017-12-15 11:08:45 +0200
 ---
 
 Große Änderungen: nach ingesamt mehr als zehn Jahren als Programmierer von
