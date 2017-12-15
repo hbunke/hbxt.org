@@ -39,7 +39,7 @@ markdown: kramdown
 # theme: minima
 theme: jekyll-swiss
 plugins:
-  - jekyll-fee
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
