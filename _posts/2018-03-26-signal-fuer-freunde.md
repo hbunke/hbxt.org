@@ -186,23 +186,17 @@ anderen: DA sind nun wirklich so gut wie keine anderen User und Freunde, und
 das UI der App ist zwar irgendwie cool, aber im Vergleich mit den anderen Apps
 auch gewöhnungsbedürftig. Aus meiner persönlichen Sicht ist Signal deshalb
 immer noch vorzuziehen, aber immerhin kann ich (wenn ich den kommerziellen
-Aspekt mal ignoriere) Wire immerhin zum Ausprobieren empfehlen kann.
+Aspekt mal ignoriere) Wire zum Ausprobieren empfehlen.
 
 
 ## Fazit
 
 Ich komme auch nicht komplett bei WhatsApp weg, aber da wo es geht, versuche
-ich Freunde etc. zu überreden, Signal zu nutzen. Dass da weniger Kontakte sind
-als bei WhatsApp ist klar, aber überhaupt kein Argument dafür, ausschließlich
-WhatsApp zu nutzen. Mensch kann auch durchaus mit mehreren Messengern leben.
-In der Regel ist der einzige wirkliche Grund für WhatsApp: haben ja alle. Aber
-auch das stimmt nicht mehr, und neulich hatte ich in einer Gruppe auch den
-Fall, dass eine Kollegin WhatsApp nicht hatte und auch nicht wollte, aber
-Signal. Und siehe da: es war nach einigen Argumenten meinerseits für die
-anderen kein wirkliches Problem, Signal zu installieren und die
-KollegInnen-Gruppe dort zu betreiben.
+ich Freunde etc. zu überreden, Signal zu nutzen. Dass da weniger Kontakte sind,
+ist überhaupt kein Argument dafür, ausschließlich WhatsApp zu nutzen: Mensch
+kann auch durchaus mit mehreren Messengern leben.
 
-Also: überwindet eurer Bequemlichkeit, macht euch klar, was für ein
+Also: überwindet eure Bequemlichkeit, macht euch klar, was für ein
 gefährliches Tool WhatsApp ist, und dann nutzt Signal, wo immer es geht.
 
 
