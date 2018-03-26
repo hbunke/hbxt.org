@@ -13,7 +13,7 @@ die Werbung für [Signal](https://signal.org) auf die Nerven gehe und mir dabei
 den Mund fusselig rede. Es ist auch eine Argumentationshilfe für mich, ein
 zusammenfassender Text, auf den ich in Diskussionen verweisen, ein Link, den
 ich schnell in Mails und Nachrichten mitschicken kann, ohne immer nach anderen
-Artikeln zu suchen, die dann vielleicht auch nict richtig das Publikum
+Artikeln zu suchen, die dann vielleicht auch nicht richtig das Publikum
 treffen.
 
 Alle anderen, die sich eh schon auskennen: you might stop reading! Es gibt
