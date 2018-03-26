@@ -13,7 +13,7 @@ die Werbung für [Signal](https://signal.org) auf die Nerven gehe und mir dabei
 den Mund fusselig rede. Es ist auch eine Argumentationshilfe für mich, ein
 zusammenfassender Text, auf den ich in Diskussionen verweisen, ein Link, den
 ich schnell in Mails und Nachrichten mitschicken kann, ohne immer nach anderen
-Artikeln zu suchen, die dann vielleicht auch nicht richtig das Publikum
+Artikeln zu suchen, die dann vielleicht auch nict richtig das Publikum
 treffen.
 
 Alle anderen, die sich eh schon auskennen: you might stop reading! Es gibt
@@ -85,7 +85,7 @@ einsehbar](https://github.com/signalapp). Das ermöglicht den Experten --anders
 als bei WhatsApp--, sämtliche Funktionen, die Verschlüsselung etc. zu prüfen.
 Bis jetzt haben sie nichts wesentliches gefunden. Ich bin ja eh ein großer
 Freund von Open Source, aber selbst wenn mensch das normalerweise nicht
-wirklich interessiert, sollte es diesem Fall sehr einsichtig sein, dass die
+wirklich interessiert, sollte es in diesem Fall sehr einsichtig sein, dass die
 Überprüfbarkeit durch externe und neutrale Experten ein sehr großer Pluspunkt
 für eine solche Art von Software bedeutet.
 
