@@ -193,7 +193,7 @@ Aspekt mal ignoriere) Wire zum Ausprobieren empfehlen.
 
 Ich komme auch nicht komplett bei WhatsApp weg, aber da wo es geht, versuche
 ich Freunde etc. zu überreden, Signal zu nutzen. Dass da weniger Kontakte sind,
-ist überhaupt kein Argument dafür, ausschließlich WhatsApp zu nutzen: Mensch
+ist überhaupt kein Argument dafür, ausschließlich WhatsApp zu nehmen: Mensch
 kann auch durchaus mit mehreren Messengern leben.
 
 Also: überwindet eure Bequemlichkeit, macht euch klar, was für ein
