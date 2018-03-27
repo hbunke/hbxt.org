@@ -80,14 +80,14 @@ Stiftung](https://signal.org/blog/signal-foundation/), deren erster Spender mit
 50 Millionen Dollar ironischerweise der Gründer von WhatsApp ist. 
 
 Der zweite ganze wichtige Punkt ist: Signal ist komplett Open Source, d.h. der
-Quellcode aller Apps (Android, iOS, Desktop) ist [frei
-einsehbar](https://github.com/signalapp). Das ermöglicht den Experten --anders
-als bei WhatsApp--, sämtliche Funktionen, die Verschlüsselung etc. zu prüfen.
-Bis jetzt haben sie nichts wesentliches gefunden. Ich bin ja eh ein großer
-Freund von Open Source, aber selbst wenn mensch das normalerweise nicht
-wirklich interessiert, sollte es in diesem Fall sehr einsichtig sein, dass die
-Überprüfbarkeit durch externe und neutrale Experten ein sehr großer Pluspunkt
-für eine solche Art von Software bedeutet.
+Quellcode aller Apps (Android, iOS, Desktop) wie auch der Verschlüsselung und
+der Server-Software ist [frei einsehbar](https://github.com/signalapp). Das
+ermöglicht den Experten --anders als bei WhatsApp--, sämtliche Funktionen, die
+Verschlüsselung etc. zu prüfen.  Bis jetzt haben sie nichts wesentliches
+gefunden. Ich bin ja eh ein großer Freund von Open Source, aber selbst wenn
+mensch das normalerweise nicht wirklich interessiert, sollte es in diesem Fall
+sehr einsichtig sein, dass die Überprüfbarkeit durch externe und neutrale
+Experten ein sehr großer Pluspunkt für eine solche Art von Software bedeutet.
 
 Der ursprünglich vom Kryptographie-Experten und Signal-Gründer [Moxie
 Marlinspike](https://www.wired.de/collection/life/wie-ein-codender-punk-uns-vor-der-nsa-schuetzen-will)
@@ -107,17 +107,17 @@ Lächerlich wenig im Vergleich zu WhatsApp.
 Die Apps (iOS, Android und mittlerweile auch Desktop) sind nicht so
 vollgestopft mit Features wie WhatsApp, aber das ist aus meiner Sicht ein
 weiterer Pluspunkt (wer braucht z.B. wirklich eine Status-Funktion in einem
-Messenger...). Hinsichtlich der Standard-Funktionaliäten steht Signal WhatsApp
+Messenger...). Hinsichtlich der Standard-Funktionalitäten steht Signal WhatsApp
 in nichts nach. Es gibt Telefonate, Video, Gruppen, und das ganze funktioniert
 einfach und zuverlässig. Signal ist keine Nerd-Software, für die man
 masochistisch veranlagt oder Software-EntwicklerIn sein muss. Dafür sprechen
-auch die auch die mittlerweile zahlreichen Empfehlungen in Mainstream-Medien
-wie der
-[FAZ](http://www.faz.net/aktuell/technik-motor/digital/whatsapp-alternativen-wie-signal-messenger-im-ueberblick-14884896.html), 
+auch die mittlerweile zahlreichen Empfehlungen in Mainstream-Medien wie der
+[FAZ](http://www.faz.net/aktuell/technik-motor/digital/whatsapp-alternativen-wie-signal-messenger-im-ueberblick-14884896.html),
 der
 [SZ](http://www.sueddeutsche.de/digital/threema-und-signal-das-sind-die-besseren-alternativen-zu-whatsapp-1.2721971-2),
-dem österreichischem Standard
-([Es gibt zuviele Messenger - und einen klar besten: Signal](https://derstandard.at/2000067258484/Es-gibt-zu-viele-Messenger-und-einen-klar-besten-Signal)),
+dem österreichischem Standard ([Es gibt zuviele Messenger - und einen klar
+besten:
+Signal](https://derstandard.at/2000067258484/Es-gibt-zu-viele-Messenger-und-einen-klar-besten-Signal)),
 oder
 [Wired](https://www.wired.de/collection/tech/vergiss-all-die-andren-messenger-apps-signal-ist-die-sicherste).
 
