@@ -2,12 +2,12 @@
 layout: post
 title: "Sechs Wochen #Lehrerwerden: Zwischenfazit"
 comments: true
-date: 2018-03-27 12:01:30 +200
+date: 2018-03-27 10:30:30 +200
 ---
 
 
-Es sind Osterferien, und ich hab die ersten sechs Wochen meiner Strafe
-(Referendariat) überstanden. Zeit für ein paar zusammenhanglose,
+Es sind Osterferien, und ich hab die ersten sechs Wochen meines Berufsumstiegs
+(aka Referendariat) überstanden. Zeit für ein paar zusammenhanglose,
 unsystematische Gedanken, Zusammenfassungen und Beobachtungen.
 
 
@@ -33,8 +33,8 @@ unsystematische Gedanken, Zusammenfassungen und Beobachtungen.
     Erkenntnisse in den Gymnasien weitgehend ignoriert werden.
 
 -   Was für den Unterricht gilt, macht sich auch an der gesamten Institution
-    unangenehm bemerkbar: Es wird gearbeitet wie vor 30 Jahren: Papier, jede
-    Menge Papier... Das führt uns zum unangenehmen Thema:
+    unangenehm bemerkbar: Es wird gearbeitet wie vor 30 Jahren: Papier, noch
+    mehr Papier, jede Menge Papier... Das führt uns zum unangenehmen Thema:
 
 
 ##  Digitale Medien
@@ -64,10 +64,10 @@ unsystematische Gedanken, Zusammenfassungen und Beobachtungen.
     Klassenräume mit Smartboard unterrichten zu können. Selbst die Klasse, bei
     der das Teil in fast jeder Stunde einsetzbar wäre, hat bislang kaum
     Erfahrungen mit dem Gerät. Ich hab dann in der letzten halben Stunde
-    (Freiarbeit) gefragt, wer denn mal Lust hätte, das Board auszuprobieren und
-    habe ungläubige Blicke geerntet. Fünf Kinder haben sich getraut und dann
-    nach einer kurzen Eingewöhnung mit großer Begeisterung spannende Sachen
-    ausprobiert. Schöne Erfahrung.
+    (Freiarbeit) gefragt, wer denn Lust hätte, das Board einfach mal
+    auszuprobieren und habe ungläubige Blicke geerntet. Fünf Kinder haben sich
+    getraut und dann nach einer kurzen Eingewöhnung mit großer Begeisterung
+    spannende Sachen ausprobiert. Schöne Erfahrung.
 
 -   Für den Unterricht wenig genutzt ist auch die offizielle Lernplattform in
     Bremen, [itslearning](https://hb.itslearning.com/). Persönlich würde ich ja
@@ -86,7 +86,7 @@ unsystematische Gedanken, Zusammenfassungen und Beobachtungen.
 
 -   interne Kommunikation läuft im Wesentlichen über: Gespräche in der Pause im
     Lehrerzimmer, Handzettel und sonstige Papiere im Postfach, Aushänge im
-    Lehrerzimmer, und ein ganz kleines bisschen auch über E-Mail. Auf letzeres
+    Lehrerzimmer, und ein ganz kleines bisschen auch über E-Mail. Auf letzteres
     sollte man sich aber nicht verlassen. Ich träume von
     [Slack](https://slack.com/).
 
@@ -94,7 +94,9 @@ unsystematische Gedanken, Zusammenfassungen und Beobachtungen.
     Nutzung im Unterricht ist immerhin erlaubt, aber nicht üblich. Ich hab in
     meinem Unterricht ausdrücklich darum gebeten, dass jede*r sein/ihr
     Smartphone immer dabei hat, damit es im Zweifelsfall verfügbar ist. Und
-    alle mussten sich itslearning installieren. BYOD, einfach machen.
+    alle mussten sich itslearning installieren.
+    [BYOD](https://de.wikipedia.org/wiki/Bring_your_own_device), einfach
+    machen.
 
 -   Es gibt immerhin einen im Hinblick auf Digitale Medien sehr aktiven und
     begeisterten Lehrer, der zufällig auch Politik unterrichtet und mit dem ich
@@ -114,70 +116,77 @@ unsystematische Gedanken, Zusammenfassungen und Beobachtungen.
 -   Die Seminarleiterin in BW ist eine erfahrene und gute Seminarleiterin, aber
     sie sagt ganz deutlich, dass das Thema Digitale Medien nicht ihrs ist. Das
     äußert sich dann u.a. daran, dass sie Overhead-Folien auflegt (während das
-    daneben stehende Smartboard ungenutzt bleibt) oder mit Schere und Stift
-    arbeiten lässt.
-    
--   Und es ist ja auch klar: es kann nicht die persönliche Verantwortung der
-    SeminarleiterInnen sein, das Thema in die Ausbildung einzubringen. Das muss
-    prinzipiell und konzeptionell in der Ausbildungsordnung verankert und in
-    alle Seminare intensiv integriert werden.
+    daneben stehende Smartboard ungenutzt bleibt) oder mit Schere und Kleber
+    arbeiten lässt. Das ist alles nicht ihre 'Schuld', es kann nicht die
+    persönliche Verantwortung der SeminarleiterInnen sein, das Thema in die
+    Ausbildung einzubringen. Das muss prinzipiell und konzeptionell in der
+    Ausbildungsordnung verankert und in alle Seminare intensiv integriert
+    werden.
 
 -   Insgesamt ist das Thema Digitalisierung von Schule und Unterricht
-    für mich ein sehr frustrierendes. Ich schwanke noch zwischen "Ich will das
-    ändern" (tatsächlich eine meiner stärksten Motivationen, den Jobwechsel zum
-    Lehrer noch zu wagen) und "Das halt ich nicht aus". Eine Seminarleiterin im
-    LIS, die zufällig eine ehemalige Kommilitonin von mir ist, sagte mir
-    neulich, ich solle durchhalten, die Digitalisierung würde sie alle bald
-    überrollen und es brauche Leute, die Lust dazu und Ahnung davon hätten.
-    Vielleicht ist das so, aber man muss dafür leider erstmal ganz viel von den
-    veralteten Methoden und Strukturen des letzten Jahrtausends überstehen.
+    für mich ein sehr frustrierendes. Ich schwanke extrem zwischen "Ich will
+    das ändern" (tatsächlich eine meiner stärksten Motivationen, den Jobwechsel
+    zum Lehrer noch zu wagen; naiv, wie mir jetzt scheint) und "Das halt ich
+    nicht aus". Eine andere Seminarleiterin im LIS, zufällig eine ehemalige
+    Kommilitonin von mir, sagte mir neulich, ich solle durchhalten, die
+    Digitalisierung würde sie alle bald überrollen und es brauche Leute, die
+    Lust dazu und Ahnung davon hätten. Vielleicht ist das so, aber man muss
+    dafür leider erstmal ganz viel von den veralteten Methoden und Strukturen
+    des letzten Jahrtausends überstehen.
 
 
 ##  Unterricht
-
-
--   Ich unterrichte seit dem Start in der Schule sechs Wochenstunden: 
-    zwei Sportkurse (8. und 10.) und einen Politikkurs (10.). Die
-    Ausbildungsverordnung sagt zwar, dass Referendare im ersten Halbjahr keinen
-    eigenverantwortlichen Unterricht geben _sollten_, erlaubt dies aber
-    trotzdem mit max. sechs Wochenstunden. Natürlich war das der klassische
-    Fall von 'ins kalte Wasser geworfen werden', und es war auch schwierig,
-    weil ich die ersten Wochen eigentlich nur von der Hand in den Mund gelebt
-    habe, sprich: eigentlich nicht wirklich konzeptionell und strukturell den
-    Unterricht vorbereiten konnte. Das versuche ich jetzt in den Osterferien
-    nachzuholen.
 
 -   Unterrichten macht tatsächlich Spaß! Der Umgang mit den 
     Kindern ist, soweit ich das nach vier Wochen Unterrichten schon sagen kann,
     erfüllend. Etwas, was ich mir ja auch von dem #Lehrerwerden versprochen
     habe.
 
+-   Ich unterrichte seit dem Start in der Schule sechs Wochenstunden: 
+    zwei Sportkurse (8. und 10.) und einen Politikkurs (10.). Die
+    Ausbildungsverordnung sagt zwar, dass Referendare im ersten Halbjahr keinen
+    eigenverantwortlichen Unterricht geben _sollten_, erlaubt dies aber
+    trotzdem mit maximal sechs Wochenstunden. Natürlich war das der klassische
+    Fall von 'ins kalte Wasser geworfen werden', und es war auch schwierig,
+    weil ich die ersten Wochen eigentlich nur von der Hand in den Mund gelebt
+    habe, sprich: eigentlich nicht wirklich konzeptionell und strukturell den
+    Unterricht vorbereiten konnte. Das versuche ich jetzt in den Osterferien
+    nachzuholen.
+
 
 ##  Persönlicher Status
 
--   Mir fällt der Umstieg immer noch schwer. Das liegt zum einen tatsächlich an
-    den von mir wirklich als sehr quälend empfundenen Status der
-    Digitalisierung in Schule und Bildung. Es würde soviel mehr Spaß machen,
-    wenn der Einsatz von Internet und Digital-Geräten selbstverständlicher
-    wäre, wenn Schule und Lehrerausbildung für die Zukunft ausbilden, für eine
-    zeitgemäße Bildung stehen und nicht mit den Methoden der Vergangenheit für
-    eine zunehmend ungewisse, aber ganz bestimmt _digitale Zukunft_ ausbilden
-    würden.  Der eklatante und an einigen Stellen geradezu absurde Unterschied
-    zwischen dem Soll- und Istzustand ist für mich nur sehr schwer auszuhalten,
-    und ich muss noch an meinem dicken Fell arbeiten.
+-   Mir fällt der Umstieg durchaus auch schwer, und ich bin trotz aller
+    Neubeginnsfreude und -euphorie gelegentlich von Zweifeln und Reue geplagt
+    (etwas was ich sonst eigentlich gar nicht kenne). Das liegt zum einen
+    tatsächlich an den von mir wirklich als sehr quälend empfundenen Status der
+    Digitalisierung in Schule und Bildung. Es würde soviel mehr Spaß machen, so
+    vieles erleichtern, wenn der Einsatz von Internet und Digital-Geräten
+    selbstverständlicher wäre, wenn Schule und Lehrerausbildung für die Zukunft
+    ausbilden, für eine zeitgemäße Bildung stehen und nicht mit den Methoden
+    der Vergangenheit für eine zunehmend ungewisse, aber ganz bestimmt
+    _digitale Zukunft_ ausbilden würden.  Der eklatante und an einigen Stellen
+    geradezu absurde Unterschied zwischen dem Soll- und Istzustand ist für mich
+    nur sehr schwer auszuhalten, und ich muss noch an meinem dicken Fell
+    arbeiten. Womöglich ist das auch schlicht der berühmte Praxisschock mit
+    einer in meinem Fall aufgrund des ungewöhnlichen Alters und
+    Berufserfahrungsstands vielleicht speziellen Ausprägung.
 
 -   Zum anderen vermisse ich auch das Programmieren, das Versenken in den Code,
     das 'Problem-Solving', das Ausprobieren neuer Techniken. Ich hatte mich die
     letzten zwei Jahre ein bisschen in das Thema funktionale Programmierung
     eingearbeitet und ich würde das liebend gerne weitermachen. Ich liebe meine
-    Linux-Rechner, meinen Vim und das Terminal. Alles nicht wirklich möglich in
-    Schule. Auch das wusste ich natürlich vorher, aber innerlich losgelassen
-    hab ich noch nicht. Was passieren würde, wenn ich morgen ein ansprechendes
-    Jobangebot als Programmierer bekommen würde, kann ich nicht sagen... ;-)  
+    Linux-Rechner, meinen Vim, Xmonad und das Terminal. Alles nicht wirklich
+    gefragt in Schule. Auch das wusste ich natürlich vorher, aber innerlich
+    losgelassen hab ich noch nicht. Was passieren würde, wenn ich morgen ein
+    ansprechendes Jobangebot als Programmierer bekommen würde, kann ich nicht
+    wirklich sagen.
 
 
-Fazit: Einiges gut, vieles problematisch und schwierig. Durchhalte-Kommentare
-sind willkommen!
+Fazit: Das Unterrichten und der Umgang mit den Kindern und Jugendlichen ist
+schön, die Institution Schule, die Ausbildung, das Thema Digitalisierung und
+der ganz persönliche Umstieg sind problematisch und schwierig.
+Durchhalte-Kommentare sind willkommen!
 
 
 
