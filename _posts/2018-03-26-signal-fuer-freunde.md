@@ -9,7 +9,7 @@ date: 2018-03-26 13:01:30 +200
 Dies ist ein Post speziell für alle Freund\*innen, Kolleg\*innen, Fußballeltern,
 Schüler\*innen, kurz für alle Nicht-Nerds aus meinem Umfeld, die ich seit
 geraumer Zeit immer mit meinem Kampf gegen die WhatsApp-Windmühlenflügel  und
-die Werbung für [Signal](https://signal.org) auf die Nerven gehe und mir dabei
+der Werbung für [Signal](https://signal.org) auf die Nerven gehe und mir dabei
 den Mund fusselig rede. Es ist auch eine Argumentationshilfe für mich, ein
 zusammenfassender Text, auf den ich in Diskussionen verweisen, ein Link, den
 ich schnell in Mails und Nachrichten mitschicken kann, ohne immer nach anderen
