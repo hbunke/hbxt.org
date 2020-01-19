@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neues Mini-Projekt: Breaking Bremen Boundaries"
+title: "Neues Mini-Projekt: #BreakingBremenBoundaries"
 comments: true
 date: 2020-01-19 14:30:30 +200
 ---
