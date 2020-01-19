@@ -15,8 +15,8 @@ werden zu Ghettos. Besonders fatal ist die Entwicklung für die dort lebenden
 Kinder und Jugendlichen, die erheblich schlechtere Bildungs und Aufstiegschancen haben als die Kinder aus privilegierten Stadtteilen.
 
 Die Schule [Oberschule Koblenzer Straße](https://osk-bremen.org), an der ich seit
-August unterrichte, ist eine _der_ Brennpunktschulen in Bremen. Der Stadtteil
-Osterholz-Tenever ist einer der ärmsten Bremens. Hier wohnen ca. 80 Nationen in
+August unterrichte, ist eine _der_ Brennpunktschulen in Bremen. Der Ortsteil
+Osterholz-Tenever ist einer der ärmsten Bremens. Hier wohnen Menschen aus ca. 80 Nationen in
 einer Hochhaussiedlung. Ich hab in meiner 9. Klasse ausschließlich Kinder mit
 Migrationshintergrund. Hier zeigt sich das Problem sozialer Segretation vor
 allem darin, dass diese Kinder kaum aus ihrer Hochhaussiedlung herauskommen,
