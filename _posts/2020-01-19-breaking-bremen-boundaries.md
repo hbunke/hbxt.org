@@ -37,7 +37,7 @@ persönlichen Umfeld in die Schule einladen. Ziel ist dabei ein Kennenlernen,
 ein Austausch, ein Lernen voneinander, Berührungspunkte und Kontakte zu
 schaffen. Davon profitieren hoffentlich beide Seiten. Den Anfang macht am
 kommenden Dienstag der Schauspieler [Helge
-Tramsen]/https://freie-agentur.org/schauspieler-bremen/helge-tramsen/).
+Tramsen](https://freie-agentur.org/schauspieler-bremen/helge-tramsen/).
 
 Außerdem in Planung ist ein Schüleraustausch mit Schülern des Bremer
 [Kippenberg-Gymnasiums](https://www.kippenberg.schule.bremen.de/), eine Schule
