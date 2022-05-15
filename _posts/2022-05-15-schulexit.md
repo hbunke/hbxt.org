@@ -2,7 +2,7 @@
 layout: post
 title: "Schulexit"
 comments: true
-date: 2022-05-22 22:30:00 +200
+date: 2022-05-15 22:30:00 +200
 ---
 
 
