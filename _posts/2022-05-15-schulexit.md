@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Schulexit"
+comments: true
+date: 2022-05-22 22:30:00 +200
+---
+
+
+
 
 Nach viereinhalb Jahren verlasse ich den (immer noch) fremden Planeten Schule wieder und kehre zurück in meinen alten Arbeitsbereich als Entwickler im Umfeld von Bibliothek, Open Science und Open Source. Am 1.7. fange ich bei der [TIB in Hannover](https://www.tib.eu/de/) an und arbeite dort im [Lab Nicht-Textuelle Materialien](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/nicht-textuelle-materialien). 
 
