@@ -23,4 +23,6 @@ Das Wichtigste ist aber, dass ich eine wunderbare Frau und drei fantastische
 Söhne (18, 16, 13) habe, auf die ich sehr stolz bin und die mein Leben in den letzten 20
 Jahren bestimmt und erfüllt haben. 
 
+<div style="text-align:centered">
 [LinkedIn](https://www.linkedin.com/in/hendrik-bunke-bb743668/)  |  [Mastodon](https://openbiblio.social/@hbunke)  |  [GitHub](https://github.com/hbunke)
+</div>
