@@ -4,54 +4,25 @@ title: "About"
 permalink: /about/
 ---
 
-# ! OUT OF DATE !
-
-
+# About
 
 <img style="float: left; margin-right: 22px; margin-top: 10px" src="{{site.url
-}}/images/bunke.jpg" /> Dr. Hendrik Bunke, seit 2009 Wissenschaftlicher
-Mitarbeiter und IT-Entwickler beim [Leibniz Informationszentrum
-Wirtschaft](http://zbw.eu) (ZBW). In früheren Leben hab ich beruflich auch
-andere Sachen als Programmierung gemacht (u.a. Lehrerausbildung, Promotion
-Politikwissenschaft, Lehramtsstudium Sport/Politik), und vielleicht schaffe
-ich's auch irgendwann noch, meinen CV hier mal einzustellen.
+}}/images/bunke.jpg" /> Dr. Hendrik Bunke, aktuell seit 2022 Wissenschaftlicher
+Mitarbeiter, IT-Entwickler und Projektmanager bei der [TIB](https://tib.eu) in Hannover (mit Homeoffice in Bremen :-)
 
-Ich bin ein Programmier-Quereinsteiger, mache das aber jetzt hauptberuflich
-auch schon über 11 Jahre, und nebenher seit über 20 Jahren. Im wesentlichen mit
-Python. Neuerdings interessiere ich mich sehr für funktionale Programmierung,
-versuche entsprechende Sprachen zu lernen (Haskell, Scala, Clojure, Elm) und
-tue außerdem so, als sei auch Python eine funktionale Sprache.
+Vor der TIB hab ich sehr intensive und lehrreiche knappe fünf Jahre als Lehrer in Bremen gearbeitet, davon drei
+Jahre in der [OSK][https://osk-bremen.de), eine sog. Brennpunktschule, die damals sehr dynamisch und innovativ war. 
+Ich hatte in jungen Jahren mal Lehramt studiert, dann aber lange
+in der Lehrerausbildung in der Uni Bremen gearbeitet und promoviert, bevor ich als autodidaktischer
+Entwickler beim [IfW](https://www.ifw-kiel.de) und der [ZBW](https://zbw.eu) gelandet bin. Aus
+Abenteuer-Lust und getrieben von einem großen pädagogischen Impetus sowie der festen Überzeugung,
+dass eine Schule, deren Fundament aus dem 19. Jahrhundert stammt, sich dringend und radikal ändern muss,
+bin ich 2018 im hohen Alter ins Referendariat und danach an die OSK. Dass ich diese intensive Episode nach
+drei Jahren wieder beendet habe, [hatte viele Gründe, die man hier nachlesen kann](http://hbxt.org/2022/05/15/schulexit.html).
 
-Bei der ZBW bin ich v.a. verantwortlich für das Open Access E-Journal
-[Economics](http://economics-ejournal.org) und die Forschungsdaten-Plattform
-[Journal Data Archive](http://journaldata.zbw.eu). Ich bin ein Verfechter von
-Open Access, Open Science und Open Data in der Wissenschaft und betrachte das
-als unabdingbare ideelle Grundlage meiner Arbeit. 
-
-Meine pädagogische Ader ist nach Lehramtsstudium und mehr als siebenjähriger
-Tätigkeit in der Lehrerausbildung an der Uni Bremen immer noch vorhanden, und
-ich kann mir tatsächlich auch noch vorstellen, trotz meines fortgeschrittenen
-Alters noch mal Lehrer zu werden. Vielleicht ist das perspektivisch sinnvoller,
-als mit 65 noch zu programmieren.
-
-Das Wichtigste ist aber, dass ich eine wunderbare Frau und _drei_ fantastische
-Söhne (12, 10, 7) habe. Die Betreuung der Kinder war immer einigermaßen gleich
-verteilt zwischen Mutter und Vater, und ich kann Väter nicht verstehen, die das
-komplett aus ihrem Leben (und damit sich aus dem Leben der Kinder) verbannen.
-Ein Job oder Arbeitgeber, der mir diese Kinderbetreuung, also eine
-Vereinbarkeit von Beruf und Familie für **beide** Elternteile, nicht
-ermöglicht, ist für mich nicht vorstellbar.
-
-Wer will, findet mich auch hier:
-
--   [Twitter](https://twitter.com)
--   [GitHub](https://github.com/hbunke)
--   [LinkedIn](https://www.linkedin.com/in/hendrik-bunke-bb743668/)
--   [Xing](https://www.xing.com/profile/Hendrik_Bunke)
-
-und bestimmt noch bei ein paar anderen, wo ich aber nicht wirklich aktiv bin.
-Und nein, bei Facebook bin ich nicht ([mehr]({{ site.url }}{% post_url 2017-01-31-quit-facebook %})).
-
+Das Wichtigste ist aber, dass ich eine wunderbare Frau und drei fantastische
+Söhne (18, 16, 13) habe, auf die ich sehr stolz bin und die mein Leben in den letzten 20
+Jahren bestimmt und erfüllt haben. 
 
 
 
