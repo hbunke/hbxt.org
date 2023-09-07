@@ -22,12 +22,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # minima
-twitter_username: hbunke
+# twitter_username: hbunke
 github_username:  hbunke
 
 # swiss
-social_link: twitter
-social_username: hbunke
+# social_link: twitter
+# social_username: hbunke
 theme_color: black
 github_repo: hbunke.github.io
 github_username: hbunke
