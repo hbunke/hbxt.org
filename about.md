@@ -9,7 +9,7 @@ permalink: /about/
 Mitarbeiter, IT-Entwickler und Projektmanager bei der [TIB](https://tib.eu) in Hannover (mit Homeoffice in Bremen :-)
 
 Vor der TIB hab ich sehr intensive und lehrreiche knappe fünf Jahre als Lehrer in Bremen gearbeitet, davon drei
-Jahre in der [OSK](https://osk-bremen.de), eine sog. Brennpunktschule, die damals sehr dynamisch und innovativ war. 
+Jahre in der [OSK](https://osk-bremen.org), eine sog. Brennpunktschule, die damals sehr dynamisch und innovativ war. 
 Ich hatte in jungen Jahren mal Lehramt studiert, dann aber lange
 in der Lehrerausbildung in der Uni Bremen gearbeitet und promoviert, bevor ich als autodidaktischer
 Entwickler beim [IfW](https://www.ifw-kiel.de) und der [ZBW](https://zbw.eu) gelandet bin. Aus
