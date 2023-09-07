@@ -4,9 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-<!--<img style="float: left; margin-right: 22px; margin-top: 10px" src="{{site.url
-}}/images/bunke.jpg" />--> 
-Dr. Hendrik Bunke, aktuell seit 2022 Wissenschaftlicher
+<img style="float: left; margin-right: 22px; margin-top: 10px" src="{{site.url
+}}/images/bunke_social_tib.jpg" />Dr. Hendrik Bunke, aktuell seit 2022 Wissenschaftlicher
 Mitarbeiter, Entwickler und Projektmanager bei der [TIB](https://tib.eu) (mit Homeoffice in Bremen :-)
 
 Vor der TIB hab ich sehr intensive und lehrreiche knappe fünf Jahre als Lehrer in Bremen gearbeitet, davon drei
