@@ -4,8 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-# About
-
 <img style="float: left; margin-right: 22px; margin-top: 10px" src="{{site.url
 }}/images/bunke.jpg" /> Dr. Hendrik Bunke, aktuell seit 2022 Wissenschaftlicher
 Mitarbeiter, IT-Entwickler und Projektmanager bei der [TIB](https://tib.eu) in Hannover (mit Homeoffice in Bremen :-)
