@@ -12,7 +12,7 @@ Vor der TIB hab ich sehr intensive und lehrreiche knappe fünf Jahre als Lehrer 
 Jahre in der [OSK](https://osk-bremen.org), eine sog. Brennpunktschule, die damals sehr dynamisch und innovativ war (und deren
 aktuelle Website natürlich von mir stammt ;-). 
 Ich hatte in jungen Jahren mal Lehramt studiert (Sport, Politik, Geschichte), dann aber lange
-in der Lehrerausbildung (Erziehungswissenschaften, Digitale Medien in der Bildung) in der Uni Bremen gearbeitet und in Politik promoviert, bevor ich als autodidaktischer
+in der Lehrerausbildung (Erziehungswissenschaften, Digitale Medien in der Bildung) in der Uni Bremen gearbeitet und in Politik promoviert, bevor ich als 
 Entwickler beim [IfW](https://www.ifw-kiel.de) und der [ZBW](https://zbw.eu) gelandet bin. Aus
 Abenteuerlust und getrieben von einem großen pädagogischen Impetus sowie der festen Überzeugung,
 dass eine Schule, deren Fundament aus dem 19. Jahrhundert stammt, sich dringend und radikal ändern muss,
