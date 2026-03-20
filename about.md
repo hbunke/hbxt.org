@@ -18,7 +18,7 @@ Abenteuerlust, getrieben von einem gewissen pädagogischen Impetus und der feste
 dass eine Schule, deren Fundament aus dem 19. Jahrhundert stammt, sich dringend und radikal ändern muss,
 bin ich 2018 im hohen Alter ins Referendariat und danach an die OSK. Dass ich diese intensive und leidenschaftliche Episode auf dem fremden Planeten Schule nach hartem Ringen wieder beendet habe, [hatte viele Gründe, die man hier nachlesen kann](http://hbxt.org/2022/05/15/schulexit.html).
 
-Nach wie vor liebe und brauche ich Sport und Bewegung, habe selbst lange Handball und Basketball gespielt, Sport studiert, als Trainer im Freizeit-Basketball gearbeitet, interessiere mich immer noch brennend für Fußball und arbeite (mit Unterbrechungen) seit zehn Jahren auch als [Trainer im Kinderfußball](https://www.union60.de/fussball/jugend/g-jugend/). Meine eigenen sportlichen Aktivitäten beschränken sich inzwischen altersgemäß auf Rennradfahren und Yoga.
+Nach wie vor liebe und brauche ich Sport und Bewegung, habe selbst lange Handball und Basketball gespielt, Sport studiert, als Trainer im Freizeit-Basketball gearbeitet, interessiere mich immer noch brennend für Fußball, arbeite (mit Unterbrechungen) seit zehn Jahren auch als [Trainer im Kinderfußball](https://www.union60.de/fussball/jugend/g-jugend/) und habe -- siehe oben -- auch einige Jahre als Sportlehrer in Schulen gearbeitet. Meine persönlichen sportlichen Aktivitäten beschränken sich inzwischen altersgemäß auf Rennradfahren und Yoga.
 
 Das Wichtigste ist aber, dass ich eine wunderbare Frau und drei fantastische (und sportliche ;-)
 Söhne (21, 19, 16) habe, die ich sehr liebe und die mein Leben in den letzten 22
