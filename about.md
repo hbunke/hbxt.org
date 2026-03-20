@@ -12,7 +12,7 @@ Vor der TIB hab ich sehr intensive und lehrreiche knappe fünf Jahre als Lehrer 
 Jahre in der [OSK](https://osk-bremen.org), eine sog. Brennpunktschule, die damals sehr dynamisch und innovativ war (und deren
 aktuelle Website noch von mir stammt ;-). 
 Ich hatte in jungen Jahren mal Lehramt studiert (Sport, Politik, Geschichte), dann aber lange
-in der Lehrerausbildung (Erziehungswissenschaften, Digitale Medien in der Bildung) in der Uni Bremen gearbeitet und in Politikwissenschaft/Geschichte promoviert, bevor ich als 
+in der Lehrerausbildung an der Uni Bremen gearbeitet (Erziehungswissenschaften, Digitale Medien in der Bildung) und in Politikwissenschaft/Geschichte promoviert, bevor ich als 
 Wissenschaftlicher Mitarbeiter und Entwickler beim [IfW](https://www.ifw-kiel.de) und der [ZBW](https://zbw.eu) gelandet bin. Aus
 Abenteuerlust, getrieben von einem gewissen pädagogischen Impetus und der festen Überzeugung,
 dass eine Schule, deren Fundament aus dem 19. Jahrhundert stammt, sich dringend und radikal ändern muss,
@@ -21,8 +21,9 @@ bin ich 2018 im hohen Alter ins Referendariat und danach an die OSK. Dass ich di
 Nach wie vor liebe und brauche ich Sport und Bewegung, habe selbst lange Handball und Basketball gespielt, Sport studiert, als Trainer im Freizeit-Basketball gearbeitet, interessiere mich immer noch brennend für Fußball und arbeite (mit Unterbrechungen) seit zehn Jahren auch als [Trainer im Kinderfußball](https://www.union60.de/fussball/jugend/g-jugend/). Meine eigenen sportlichen Aktivitäten beschränken sich inzwischen altersgemäß auf Rennradfahren und Yoga.
 
 Das Wichtigste ist aber, dass ich eine wunderbare Frau und drei fantastische (und sportliche ;-)
-Söhne (20, 18, 15) habe, die ich sehr liebe und die mein Leben in den letzten 20
+Söhne (21, 19, 16) habe, die ich sehr liebe und die mein Leben in den letzten 22
 Jahren bestimmt und erfüllt haben. ❤️
 
 [LinkedIn](https://www.linkedin.com/in/hendrik-bunke-bb743668/)  |  [Mastodon](https://openbiblio.social/@hbunke)  |  [GitHub](https://github.com/hbunke)
 
+Einige berufliche Infos und die Email-Adresse findest Du unter [https://tib.eu/hbunke](https://tib.eu/hbunke)
