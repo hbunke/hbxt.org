@@ -24,6 +24,6 @@ Das Wichtigste ist aber, dass ich eine wunderbare Frau und drei fantastische (un
 Söhne (21, 19, 16) habe, die ich sehr liebe und die mein Leben in den letzten 22
 Jahren bestimmt und erfüllt haben. ❤️
 
-[LinkedIn](https://www.linkedin.com/in/hendrik-bunke-bb743668/)  |  [Mastodon](https://openbiblio.social/@hbunke)  |  [GitHub](https://github.com/hbunke)
+[Mastodon](https://openbiblio.social/@hbunke)  |  [GitHub](https://github.com/hbunke)
 
 Einige berufliche Infos und die Email-Adresse findest Du unter [https://tib.eu/hbunke](https://tib.eu/hbunke)
